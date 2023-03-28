@@ -5,8 +5,7 @@
 This repository contains open hardware design files for an adapter board supporting the Allied Vision Alvium CSI-2 camera pinout to the Toradex Ixora Carrier Board, created by Allied Vision.
 The board allows the user to interface with one Alvium MIPI CSI-2 compatible camera over a Flexible Flat Cable (FFC) connector.
 
-This adapter can also be ordered at [Allied Vision](https://www.alliedvision.com/en/meta-header/contact-us/contact-sales.html) or a [qualified Allied Vision distributor](https://www.alliedvision.com/en/about-us/where-we-are.html) under order code **14908** - Adapter Board CSI-2 Toradex Ixora Carrier
-.
+You can also purchase the adapter from [Allied Vision](https://www.alliedvision.com/en/products/accessories/interface-connections/#!?cameraInterfacefilter=10) or from our [distributors](https://www.alliedvision.com/en/avt-locations/avt-distributors/).
 
 ## Getting Started
 
